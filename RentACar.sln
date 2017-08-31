@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domen", "Domen\Domen.csproj", "{8D8B83B0-5BCE-4F0A-BFBB-0BB479966CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlijentForma", "KlijentForma\KlijentForma.csproj", "{1526A916-ABB4-4DBE-B089-8853E25866F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontorlerAplikacioneLogike", "KontorlerAplikacioneLogike\KontorlerAplikacioneLogike.csproj", "{2AE45045-B583-4D98-9E0A-72A3B50DC0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontrolerKorisnickogInterfejsa", "KontrolerKorisnickogInterfejsa\KontrolerKorisnickogInterfejsa.csproj", "{CBACB8CC-52EA-4CAD-8B15-4E6024AA56C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sesija", "Sesija\Sesija.csproj", "{B1D4B7F0-ADD0-4B3B-8172-932D6F2D9CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemskeOperacije", "SistemskeOperacije\SistemskeOperacije.csproj", "{028B83F0-B8B8-4845-9C18-BEF32F88F200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerForma", "ServerFroma\ServerForma.csproj", "{6E956804-6735-49A1-A2DE-334C34AF33C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D8B83B0-5BCE-4F0A-BFBB-0BB479966CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8B83B0-5BCE-4F0A-BFBB-0BB479966CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8B83B0-5BCE-4F0A-BFBB-0BB479966CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8B83B0-5BCE-4F0A-BFBB-0BB479966CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1526A916-ABB4-4DBE-B089-8853E25866F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1526A916-ABB4-4DBE-B089-8853E25866F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1526A916-ABB4-4DBE-B089-8853E25866F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1526A916-ABB4-4DBE-B089-8853E25866F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE45045-B583-4D98-9E0A-72A3B50DC0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE45045-B583-4D98-9E0A-72A3B50DC0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE45045-B583-4D98-9E0A-72A3B50DC0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE45045-B583-4D98-9E0A-72A3B50DC0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBACB8CC-52EA-4CAD-8B15-4E6024AA56C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBACB8CC-52EA-4CAD-8B15-4E6024AA56C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBACB8CC-52EA-4CAD-8B15-4E6024AA56C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBACB8CC-52EA-4CAD-8B15-4E6024AA56C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D4B7F0-ADD0-4B3B-8172-932D6F2D9CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D4B7F0-ADD0-4B3B-8172-932D6F2D9CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D4B7F0-ADD0-4B3B-8172-932D6F2D9CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D4B7F0-ADD0-4B3B-8172-932D6F2D9CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028B83F0-B8B8-4845-9C18-BEF32F88F200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028B83F0-B8B8-4845-9C18-BEF32F88F200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028B83F0-B8B8-4845-9C18-BEF32F88F200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028B83F0-B8B8-4845-9C18-BEF32F88F200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E956804-6735-49A1-A2DE-334C34AF33C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E956804-6735-49A1-A2DE-334C34AF33C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E956804-6735-49A1-A2DE-334C34AF33C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E956804-6735-49A1-A2DE-334C34AF33C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
